@@ -1,1 +1,3 @@
+# app-ads.txt file:
+
 mopub.com, aa380ab4c07e4c138a1ca8885057d110, DIRECT, 74b46c0ea83967ca
